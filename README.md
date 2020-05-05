@@ -6,3 +6,4 @@
   * wpf应用使用xml来保存窗体结构，且xml有5个不同的xmlns
   * xml使用有助于实现设计重用和前后端分离
   * c#各类应用程序：console,wpf,asp.net mvc,cloud等
+  * 不同的项目模板就是引用了不同所需要的类库
