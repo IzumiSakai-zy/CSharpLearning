@@ -1,0 +1,8 @@
+D:\Program\CSharpLearning\day0504-\Caculator\bin\Debug\netcoreapp3.1\Caculator.deps.json
+D:\Program\CSharpLearning\day0504-\Caculator\bin\Debug\netcoreapp3.1\Caculator.dll
+D:\Program\CSharpLearning\day0504-\Caculator\bin\Debug\netcoreapp3.1\Caculator.pdb
+D:\Program\CSharpLearning\day0504-\Caculator\obj\Debug\netcoreapp3.1\Caculator.csprojAssemblyReference.cache
+D:\Program\CSharpLearning\day0504-\Caculator\obj\Debug\netcoreapp3.1\Caculator.AssemblyInfoInputs.cache
+D:\Program\CSharpLearning\day0504-\Caculator\obj\Debug\netcoreapp3.1\Caculator.AssemblyInfo.cs
+D:\Program\CSharpLearning\day0504-\Caculator\obj\Debug\netcoreapp3.1\Caculator.dll
+D:\Program\CSharpLearning\day0504-\Caculator\obj\Debug\netcoreapp3.1\Caculator.pdb

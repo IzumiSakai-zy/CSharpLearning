@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp", "Wpf\WpfApp.csproj", "{9CDC68C8-B2AA-4613-ABED-A0E4DA720622}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{D3791181-B042-46E1-A622-6527E6A1FC37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caculator", "Caculator\Caculator.csproj", "{1852EB72-705B-4899-B841-72E4B4633939}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CDC68C8-B2AA-4613-ABED-A0E4DA720622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDC68C8-B2AA-4613-ABED-A0E4DA720622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDC68C8-B2AA-4613-ABED-A0E4DA720622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDC68C8-B2AA-4613-ABED-A0E4DA720622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3791181-B042-46E1-A622-6527E6A1FC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3791181-B042-46E1-A622-6527E6A1FC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3791181-B042-46E1-A622-6527E6A1FC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3791181-B042-46E1-A622-6527E6A1FC37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1852EB72-705B-4899-B841-72E4B4633939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1852EB72-705B-4899-B841-72E4B4633939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1852EB72-705B-4899-B841-72E4B4633939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1852EB72-705B-4899-B841-72E4B4633939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B59430D7-16FE-4D04-B31D-355A3F16C105}
+	EndGlobalSection
+EndGlobal

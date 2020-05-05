@@ -1,0 +1,14 @@
+D:\Program\CSharpHomework\com.day0504-\Wpf\bin\Debug\com.day0504-.exe.config
+D:\Program\CSharpHomework\com.day0504-\Wpf\bin\Debug\com.day0504-.exe
+D:\Program\CSharpHomework\com.day0504-\Wpf\bin\Debug\com.day0504-.pdb
+D:\Program\CSharpHomework\com.day0504-\Wpf\obj\Debug\Wpf.csprojAssemblyReference.cache
+D:\Program\CSharpHomework\com.day0504-\Wpf\obj\Debug\MainWindow.g.cs
+D:\Program\CSharpHomework\com.day0504-\Wpf\obj\Debug\App.g.cs
+D:\Program\CSharpHomework\com.day0504-\Wpf\obj\Debug\com.day0504-_MarkupCompile.cache
+D:\Program\CSharpHomework\com.day0504-\Wpf\obj\Debug\com.day0504-_MarkupCompile.lref
+D:\Program\CSharpHomework\com.day0504-\Wpf\obj\Debug\MainWindow.baml
+D:\Program\CSharpHomework\com.day0504-\Wpf\obj\Debug\com.day0504-.g.resources
+D:\Program\CSharpHomework\com.day0504-\Wpf\obj\Debug\com.day0504_.Properties.Resources.resources
+D:\Program\CSharpHomework\com.day0504-\Wpf\obj\Debug\Wpf.csproj.GenerateResource.cache
+D:\Program\CSharpHomework\com.day0504-\Wpf\obj\Debug\com.day0504-.exe
+D:\Program\CSharpHomework\com.day0504-\Wpf\obj\Debug\com.day0504-.pdb

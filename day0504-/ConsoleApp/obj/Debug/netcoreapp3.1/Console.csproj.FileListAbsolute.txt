@@ -1,0 +1,11 @@
+D:\Program\CSharpHomework\com.day0504-\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+D:\Program\CSharpHomework\com.day0504-\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+D:\Program\CSharpHomework\com.day0504-\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+D:\Program\CSharpHomework\com.day0504-\Console\bin\Debug\netcoreapp3.1\Console.exe
+D:\Program\CSharpHomework\com.day0504-\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+D:\Program\CSharpHomework\com.day0504-\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+D:\Program\CSharpHomework\com.day0504-\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+D:\Program\CSharpHomework\com.day0504-\Console\bin\Debug\netcoreapp3.1\Console.dll
+D:\Program\CSharpHomework\com.day0504-\Console\bin\Debug\netcoreapp3.1\Console.pdb
+D:\Program\CSharpHomework\com.day0504-\Console\obj\Debug\netcoreapp3.1\Console.dll
+D:\Program\CSharpHomework\com.day0504-\Console\obj\Debug\netcoreapp3.1\Console.pdb
