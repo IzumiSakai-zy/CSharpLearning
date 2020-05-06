@@ -1,0 +1,11 @@
+D:\Program\CSharpLearning\day0505\ConsoleDebug\bin\Debug\netcoreapp3.1\ConsoleDebug.exe
+D:\Program\CSharpLearning\day0505\ConsoleDebug\bin\Debug\netcoreapp3.1\ConsoleDebug.deps.json
+D:\Program\CSharpLearning\day0505\ConsoleDebug\bin\Debug\netcoreapp3.1\ConsoleDebug.runtimeconfig.json
+D:\Program\CSharpLearning\day0505\ConsoleDebug\bin\Debug\netcoreapp3.1\ConsoleDebug.runtimeconfig.dev.json
+D:\Program\CSharpLearning\day0505\ConsoleDebug\bin\Debug\netcoreapp3.1\ConsoleDebug.dll
+D:\Program\CSharpLearning\day0505\ConsoleDebug\bin\Debug\netcoreapp3.1\ConsoleDebug.pdb
+D:\Program\CSharpLearning\day0505\ConsoleDebug\obj\Debug\netcoreapp3.1\ConsoleDebug.csprojAssemblyReference.cache
+D:\Program\CSharpLearning\day0505\ConsoleDebug\obj\Debug\netcoreapp3.1\ConsoleDebug.AssemblyInfoInputs.cache
+D:\Program\CSharpLearning\day0505\ConsoleDebug\obj\Debug\netcoreapp3.1\ConsoleDebug.AssemblyInfo.cs
+D:\Program\CSharpLearning\day0505\ConsoleDebug\obj\Debug\netcoreapp3.1\ConsoleDebug.dll
+D:\Program\CSharpLearning\day0505\ConsoleDebug\obj\Debug\netcoreapp3.1\ConsoleDebug.pdb

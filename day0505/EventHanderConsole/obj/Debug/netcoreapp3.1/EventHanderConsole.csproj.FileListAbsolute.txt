@@ -1,0 +1,11 @@
+D:\Program\CSharpLearning\day0505\EventHanderConsole\bin\Debug\netcoreapp3.1\EventHanderConsole.exe
+D:\Program\CSharpLearning\day0505\EventHanderConsole\bin\Debug\netcoreapp3.1\EventHanderConsole.deps.json
+D:\Program\CSharpLearning\day0505\EventHanderConsole\bin\Debug\netcoreapp3.1\EventHanderConsole.runtimeconfig.json
+D:\Program\CSharpLearning\day0505\EventHanderConsole\bin\Debug\netcoreapp3.1\EventHanderConsole.runtimeconfig.dev.json
+D:\Program\CSharpLearning\day0505\EventHanderConsole\bin\Debug\netcoreapp3.1\EventHanderConsole.dll
+D:\Program\CSharpLearning\day0505\EventHanderConsole\bin\Debug\netcoreapp3.1\EventHanderConsole.pdb
+D:\Program\CSharpLearning\day0505\EventHanderConsole\obj\Debug\netcoreapp3.1\EventHanderConsole.csprojAssemblyReference.cache
+D:\Program\CSharpLearning\day0505\EventHanderConsole\obj\Debug\netcoreapp3.1\EventHanderConsole.AssemblyInfoInputs.cache
+D:\Program\CSharpLearning\day0505\EventHanderConsole\obj\Debug\netcoreapp3.1\EventHanderConsole.AssemblyInfo.cs
+D:\Program\CSharpLearning\day0505\EventHanderConsole\obj\Debug\netcoreapp3.1\EventHanderConsole.dll
+D:\Program\CSharpLearning\day0505\EventHanderConsole\obj\Debug\netcoreapp3.1\EventHanderConsole.pdb

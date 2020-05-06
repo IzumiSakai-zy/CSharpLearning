@@ -1,0 +1,17 @@
+D:\Program\CSharpLearning\day0505\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.exe
+D:\Program\CSharpLearning\day0505\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.deps.json
+D:\Program\CSharpLearning\day0505\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.runtimeconfig.json
+D:\Program\CSharpLearning\day0505\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.runtimeconfig.dev.json
+D:\Program\CSharpLearning\day0505\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.dll
+D:\Program\CSharpLearning\day0505\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.pdb
+D:\Program\CSharpLearning\day0505\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.csprojAssemblyReference.cache
+D:\Program\CSharpLearning\day0505\WpfApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Program\CSharpLearning\day0505\WpfApp\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Program\CSharpLearning\day0505\WpfApp\obj\Debug\netcoreapp3.1\WpfApp_MarkupCompile.cache
+D:\Program\CSharpLearning\day0505\WpfApp\obj\Debug\netcoreapp3.1\WpfApp_MarkupCompile.lref
+D:\Program\CSharpLearning\day0505\WpfApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Program\CSharpLearning\day0505\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.g.resources
+D:\Program\CSharpLearning\day0505\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.AssemblyInfoInputs.cache
+D:\Program\CSharpLearning\day0505\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.AssemblyInfo.cs
+D:\Program\CSharpLearning\day0505\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.dll
+D:\Program\CSharpLearning\day0505\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.pdb
